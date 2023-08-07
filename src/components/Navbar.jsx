@@ -7,6 +7,7 @@ export const Navbar = () => {
         <Link href="/">Home</Link>
         <Link href="/movie">Movie</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/search">search</Link>
       </div>
       <hr />
     </div>
